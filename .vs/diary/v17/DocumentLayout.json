@@ -1,0 +1,1012 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\studentabsences.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\studentabsences.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\listteacher.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\listteacher.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\listclasses.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\listclasses.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\teacher\\listclasses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\teacher\\listclasses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\studentabsencesdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\studentabsencesdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\studentabsences.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\studentabsences.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\manageattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\manageattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\classes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\classes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\components\\teachernavigation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\components\\teachernavigation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\components\\isuserinrole\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\components\\isuserinrole\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\components\\groupheadnavigation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\components\\groupheadnavigation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\shared\\components\\adminnavigation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\shared\\components\\adminnavigation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\grouphead\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\grouphead\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\grouphead\\mygroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\grouphead\\mygroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\admin\\teacherdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\admin\\teacherdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\admin\\listteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\admin\\listteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\admin\\listgroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\admin\\listgroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\admin\\groupheaddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\admin\\groupheaddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\admin\\groupdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\admin\\groupdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\views\\admin\\_teacherstable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\views\\admin\\_teacherstable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\viewmodels\\classviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\viewmodels\\classviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\viewmodels\\groupdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\viewmodels\\groupdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\viewcomponents\\groupheadnavigationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\viewcomponents\\groupheadnavigationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\viewcomponents\\adminnavigationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\viewcomponents\\adminnavigationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\services\\typeweekdownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\services\\typeweekdownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\models\\universityentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\models\\universityentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\models\\diaryentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\models\\diaryentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\models\\diarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\models\\diarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\controllers\\sharedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\controllers\\sharedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\controllers\\groupheadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\controllers\\groupheadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\components\\isuserinrole\\isuserinroleviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\components\\isuserinrole\\isuserinroleviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\enums\\lessontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\enums\\lessontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\studentabsencesdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\studentabsencesdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\mygroup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\mygroup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\manageattendance.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\manageattendance.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\classes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\classes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\groupdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\groupdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\teacherdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\js\\teacherdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\viewmodels\\manageattendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\viewmodels\\manageattendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\viewmodels\\studentabsenceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\viewmodels\\studentabsenceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentAbsences.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\StudentAbsences.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\StudentAbsences.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\StudentAbsences.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\StudentAbsences.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T21:06:46.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\TeacherNavigation\\Default.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\Components\\TeacherNavigation\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\TeacherNavigation\\Default.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\Components\\TeacherNavigation\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:41:56.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\IsUserInRole\\Default.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\Components\\IsUserInRole\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\IsUserInRole\\Default.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\Components\\IsUserInRole\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:41:53.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:41:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "diary\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:40:17.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "diary\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:39:29.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyGroup.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\GroupHead\\MyGroup.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\GroupHead\\MyGroup.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\GroupHead\\MyGroup.cshtml",
+              "RelativeToolTip": "diary\\Views\\GroupHead\\MyGroup.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:37:41.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\GroupHead\\Index.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\GroupHead\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\GroupHead\\Index.cshtml",
+              "RelativeToolTip": "diary\\Views\\GroupHead\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:37:35.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ListGroup.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\ListGroup.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Admin\\ListGroup.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\ListGroup.cshtml",
+              "RelativeToolTip": "diary\\Views\\Admin\\ListGroup.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:36:24.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GroupHeadDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\GroupHeadDetails.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Admin\\GroupHeadDetails.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\GroupHeadDetails.cshtml",
+              "RelativeToolTip": "diary\\Views\\Admin\\GroupHeadDetails.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:35:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_TeachersTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\_TeachersTable.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Admin\\_TeachersTable.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\_TeachersTable.cshtml",
+              "RelativeToolTip": "diary\\Views\\Admin\\_TeachersTable.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T19:35:31.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GroupDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewModels\\GroupDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "diary\\ViewModels\\GroupDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewModels\\GroupDetailsViewModel.cs",
+              "RelativeToolTip": "diary\\ViewModels\\GroupDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:23:30.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClassViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewModels\\ClassViewModel.cs",
+              "RelativeDocumentMoniker": "diary\\ViewModels\\ClassViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewModels\\ClassViewModel.cs",
+              "RelativeToolTip": "diary\\ViewModels\\ClassViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:23:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GroupHeadNavigationViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewComponents\\GroupHeadNavigationViewComponent.cs",
+              "RelativeDocumentMoniker": "diary\\ViewComponents\\GroupHeadNavigationViewComponent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewComponents\\GroupHeadNavigationViewComponent.cs",
+              "RelativeToolTip": "diary\\ViewComponents\\GroupHeadNavigationViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:23:27.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminNavigationViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewComponents\\AdminNavigationViewComponent.cs",
+              "RelativeDocumentMoniker": "diary\\ViewComponents\\AdminNavigationViewComponent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewComponents\\AdminNavigationViewComponent.cs",
+              "RelativeToolTip": "diary\\ViewComponents\\AdminNavigationViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:23:26.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TypeWeekDownloadService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Services\\TypeWeekDownloadService.cs",
+              "RelativeDocumentMoniker": "diary\\Services\\TypeWeekDownloadService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Services\\TypeWeekDownloadService.cs",
+              "RelativeToolTip": "diary\\Services\\TypeWeekDownloadService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:23:02.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DiaryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\DiaryDbContext.cs",
+              "RelativeDocumentMoniker": "diary\\Models\\DiaryDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\DiaryDbContext.cs",
+              "RelativeToolTip": "diary\\Models\\DiaryDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:41:47.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "diary\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "diary\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:38:50.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "diary\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "diary\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:38:49.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "diary\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "diary\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:38:48.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "diary\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "diary\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:38:37.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IsUserInRoleViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Components\\IsUserInRole\\IsUserInRoleViewComponent.cs",
+              "RelativeDocumentMoniker": "diary\\Components\\IsUserInRole\\IsUserInRoleViewComponent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Components\\IsUserInRole\\IsUserInRoleViewComponent.cs",
+              "RelativeToolTip": "diary\\Components\\IsUserInRole\\IsUserInRoleViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:37:12.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "diary\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "diary\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:36:21.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LessonType.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Enums\\LessonType.cs",
+              "RelativeDocumentMoniker": "diary\\Enums\\LessonType.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Enums\\LessonType.cs",
+              "RelativeToolTip": "diary\\Enums\\LessonType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:36:32.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "diary\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:27:57.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "diary\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:27:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "diary\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:27:29.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAbsences.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\StudentAbsences.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\StudentAbsences.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\StudentAbsences.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\StudentAbsences.js",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T10:44:12.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StudentAbsencesDetails.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\StudentAbsencesDetails.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\StudentAbsencesDetails.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\StudentAbsencesDetails.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\StudentAbsencesDetails.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T10:44:10.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T10:43:34.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MyGroup.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\MyGroup.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\MyGroup.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\MyGroup.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\MyGroup.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T10:42:00.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ManageAttendance.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\ManageAttendance.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\ManageAttendance.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\ManageAttendance.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\ManageAttendance.js",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAFgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T09:51:54.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageAttendance.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\ManageAttendance.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\ManageAttendance.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\ManageAttendance.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\ManageAttendance.cshtml",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T14:29:02.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListTeacher.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\ListTeacher.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\ListTeacher.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\ListTeacher.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\ListTeacher.js",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T09:49:53.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Classes.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\Classes.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\Classes.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\Classes.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\Classes.js",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-25T09:43:07.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\GroupHeadNavigation\\Default.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\Components\\GroupHeadNavigation\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\GroupHeadNavigation\\Default.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\Components\\GroupHeadNavigation\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T08:02:05.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\AdminNavigation\\Default.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\Components\\AdminNavigation\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Components\\AdminNavigation\\Default.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\Components\\AdminNavigation\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T08:01:42.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeacherDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\TeacherDetails.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Admin\\TeacherDetails.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\TeacherDetails.cshtml",
+              "RelativeToolTip": "diary\\Views\\Admin\\TeacherDetails.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T07:49:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ListTeacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\ListTeacher.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Admin\\ListTeacher.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\ListTeacher.cshtml",
+              "RelativeToolTip": "diary\\Views\\Admin\\ListTeacher.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T07:42:41.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TeacherDetails.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\TeacherDetails.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\TeacherDetails.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\TeacherDetails.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\TeacherDetails.js",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwJcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-24T16:44:37.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "diary\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "diary\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAPQBAAAAAAAAAAAqwJIBAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:15:50.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GroupDetails.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\GroupDetails.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\GroupDetails.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\GroupDetails.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\GroupDetails.js",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-24T16:44:28.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GroupDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\GroupDetails.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Admin\\GroupDetails.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Admin\\GroupDetails.cshtml",
+              "RelativeToolTip": "diary\\Views\\Admin\\GroupDetails.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:44:23.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UniversityEntities.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\UniversityEntities.cs",
+              "RelativeDocumentMoniker": "diary\\Models\\UniversityEntities.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\UniversityEntities.cs",
+              "RelativeToolTip": "diary\\Models\\UniversityEntities.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:04:06.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ManageAttendanceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewModels\\ManageAttendanceViewModel.cs",
+              "RelativeDocumentMoniker": "diary\\ViewModels\\ManageAttendanceViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewModels\\ManageAttendanceViewModel.cs",
+              "RelativeToolTip": "diary\\ViewModels\\ManageAttendanceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:28:57.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListClasses.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\ListClasses.js",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\js\\ListClasses.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\ListClasses.js",
+              "RelativeToolTip": "diary\\wwwroot\\js\\ListClasses.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-24T08:26:18.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "diary\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "diary\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:22:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T20:48:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "StudentAbsenceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewModels\\StudentAbsenceViewModel.cs",
+              "RelativeDocumentMoniker": "diary\\ViewModels\\StudentAbsenceViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\ViewModels\\StudentAbsenceViewModel.cs",
+              "RelativeToolTip": "diary\\ViewModels\\StudentAbsenceViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:11:56.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "diary\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "diary\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:49:01.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "diary\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T16:48:46.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "diary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "diary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAABsLAAAAAAAAAAAAAC0LAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T16:24:53.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentAbsencesDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\StudentAbsencesDetails.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\StudentAbsencesDetails.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\StudentAbsencesDetails.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\StudentAbsencesDetails.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAC0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T14:17:55.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListClasses.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Teacher\\ListClasses.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Teacher\\ListClasses.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Teacher\\ListClasses.cshtml",
+              "RelativeToolTip": "diary\\Views\\Teacher\\ListClasses.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAFYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T13:21:40.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Classes.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Classes.cshtml",
+              "RelativeDocumentMoniker": "diary\\Views\\Shared\\Classes.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\Classes.cshtml",
+              "RelativeToolTip": "diary\\Views\\Shared\\Classes.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAEsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T13:21:34.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DiaryEntities.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\DiaryEntities.cs",
+              "RelativeDocumentMoniker": "diary\\Models\\DiaryEntities.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\DiaryEntities.cs",
+              "RelativeToolTip": "diary\\Models\\DiaryEntities.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAUwLEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:15:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SharedController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\SharedController.cs",
+              "RelativeDocumentMoniker": "diary\\Controllers\\SharedController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\SharedController.cs",
+              "RelativeToolTip": "diary\\Controllers\\SharedController.cs",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAQwAwCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:35:37.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "diary\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "diary\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAOkBAAAAAAAAAAAvwJUBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:32:03.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GroupHeadController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\GroupHeadController.cs",
+              "RelativeDocumentMoniker": "diary\\Controllers\\GroupHeadController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\GroupHeadController.cs",
+              "RelativeToolTip": "diary\\Controllers\\GroupHeadController.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAwGYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:31:58.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
