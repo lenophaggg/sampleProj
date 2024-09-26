@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\controllers\\groupheadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\controllers\\groupheadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\models\\diaryentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\models\\diaryentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\controllers\\groupheadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|solutionrelative:diary\\controllers\\groupheadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21F29ED4-3564-4418-9BC1-157A971E819C}|diary\\diary.csproj|c:\\users\\user\\desktop\\papka\\diary_prime\\diary\\wwwroot\\js\\studentabsences.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -246,7 +246,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 57,
+          "SelectedChildIndex": 60,
           "Children": [
             {
               "$type": "Bookmark",
@@ -590,8 +590,7 @@
               "RelativeToolTip": "diary\\wwwroot\\js\\StudentAbsences.js",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-25T10:44:12.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T10:44:12.329Z"
             },
             {
               "$type": "Document",
@@ -643,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ManageAttendance.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Views\\Shared\\ManageAttendance.cshtml",
               "RelativeDocumentMoniker": "diary\\Views\\Shared\\ManageAttendance.cshtml",
@@ -651,8 +650,7 @@
               "RelativeToolTip": "diary\\Views\\Shared\\ManageAttendance.cshtml",
               "ViewState": "AQIAAHcAAAAAAAAAAAAQwIkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T14:29:02.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T14:29:02.318Z"
             },
             {
               "$type": "Document",
@@ -920,20 +918,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DiaryEntities.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\DiaryEntities.cs",
               "RelativeDocumentMoniker": "diary\\Models\\DiaryEntities.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Models\\DiaryEntities.cs",
               "RelativeToolTip": "diary\\Models\\DiaryEntities.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAUwH0AAAAaAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAywH0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T12:15:03.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SharedController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\SharedController.cs",
               "RelativeDocumentMoniker": "diary\\Controllers\\SharedController.cs",
@@ -941,12 +939,11 @@
               "RelativeToolTip": "diary\\Controllers\\SharedController.cs",
               "ViewState": "AQIAAOYBAAAAAAAAAAAAAPcBAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:35:37.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:35:37.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TeacherController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\TeacherController.cs",
               "RelativeDocumentMoniker": "diary\\Controllers\\TeacherController.cs",
@@ -954,18 +951,17 @@
               "RelativeToolTip": "diary\\Controllers\\TeacherController.cs",
               "ViewState": "AQIAADcBAAAAAAAAAAAAAEoBAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:32:03.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:32:03.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "GroupHeadController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\GroupHeadController.cs",
               "RelativeDocumentMoniker": "diary\\Controllers\\GroupHeadController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\papka\\diary_prime\\diary\\Controllers\\GroupHeadController.cs",
               "RelativeToolTip": "diary\\Controllers\\GroupHeadController.cs",
-              "ViewState": "AQIAALkAAAAAAAAAAAAAAMoAAABIAAAA",
+              "ViewState": "AQIAALsAAAAAAAAAAAAAAM8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T11:31:58.422Z",
               "EditorCaption": ""

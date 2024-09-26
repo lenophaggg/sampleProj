@@ -200,7 +200,7 @@ namespace diary.Controllers
                         isPresent = false;
                     }
 
-                    // Обновляем значения IsPresent и IsAbsence в зависимости от данных об отсутствии
+                    // Обновляем значения IsPresent и IsExcusedAbsence в зависимости от данных об отсутствии
                     existingRecord.IsPresent = isPresent;
                     existingRecord.IsExcusedAbsence = IsExcusedAbsence;
                     existingRecord.Status = AttendanceStatus.ConfirmedByGroupHead;
