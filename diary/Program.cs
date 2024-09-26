@@ -33,17 +33,15 @@ namespace diary
 
             builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
             {
-                options.SignIn.RequireConfirmedAccount = false; // Отключение требования подтверждения аккаунта
-                options.User.RequireUniqueEmail = false; // Отключение требования уникальности email
+                options.SignIn.RequireConfirmedAccount = false; 
+                options.User.RequireUniqueEmail = false; 
 
-                // Настройки пароля
                 options.Password.RequireDigit = true;
                 options.Password.RequiredLength = 8;
                 options.Password.RequireNonAlphanumeric = false;
                 options.Password.RequireUppercase = true;
                 options.Password.RequireLowercase = true;
 
-                // Настройки блокировки
                 options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
                 options.Lockout.MaxFailedAccessAttempts = 3;
                 options.Lockout.AllowedForNewUsers = true;
@@ -57,7 +55,7 @@ namespace diary
                 options.LoginPath = "/Home/Login";
                 options.AccessDeniedPath = "/Home/AccessDenied";
                 options.SlidingExpiration = true;
-                options.ExpireTimeSpan = TimeSpan.FromDays(1); // Установите кратковременный срок действия куки по умолчанию
+                options.ExpireTimeSpan = TimeSpan.FromDays(1); 
 
                 options.Events.OnValidatePrincipal = async context =>
                 {
@@ -69,8 +67,7 @@ namespace diary
                         await context.HttpContext.SignOutAsync();
                     }
                     else
-                    {
-                        // Проверяем срок действия куки и продлеваем его
+                    {                        
                         if (context.Properties.IsPersistent)
                         {
                             context.Properties.ExpiresUtc = DateTimeOffset.UtcNow.AddDays(30);
@@ -122,9 +119,6 @@ namespace diary
             app.MapControllerRoute(
                 name: "grouphead",
                 pattern: "{controller=GroupHead}/{action=Index}/{id?}");
-
-
-
 
             await app.RunAsync();
         }
