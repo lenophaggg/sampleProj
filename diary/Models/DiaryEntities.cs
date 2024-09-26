@@ -121,7 +121,7 @@ namespace diary.Models
         public bool IsPresent { get; set; }
 
         [Column("isabsence")]
-        public bool IsAbsence { get; set; }
+        public bool IsExcusedAbsence { get; set; }
 
         [Column("status")]
         public AttendanceStatus Status { get; set; } 

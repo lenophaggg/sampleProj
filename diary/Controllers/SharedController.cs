@@ -499,7 +499,7 @@ namespace diary.Controllers
                                 cell.Style.Fill.PatternType = ExcelFillStyle.Solid;
                                 cell.Style.Fill.BackgroundColor.SetColor(Color.LightGreen);
                             }
-                            else if (attendanceRecord.IsAbsence)
+                            else if (attendanceRecord.IsExcusedAbsence)
                             {
                                 // Уважительная причина
                                 cell.Value = "Отсутствие (уваж.)";

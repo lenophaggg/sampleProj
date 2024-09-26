@@ -133,7 +133,7 @@
                                        data-session-number="@group.Key.SessionNumber"
                                        name="AttendanceRecords[@student.StudentId][@(group.Key.Date.ToString("yyyy-MM-dd"))][@group.Key.SessionNumber].IsPresent"
                                 @(attendanceRecord != null && attendanceRecord.IsPresent ? "checked" : "")
-                                @(attendanceRecord?.IsAbsence == true || isAdmin ? "disabled" : "")
+                                @(attendanceRecord?.IsExcusedAbsence == true || isAdmin ? "disabled" : "")
                                 @(isGroupHead && (attendanceRecord?.Status == AttendanceStatus.ConfirmedByGroupHead || attendanceRecord?.Status == AttendanceStatus.ConfirmedByTeacher) ? "disabled" : "") />
                             </td>
 
@@ -142,7 +142,7 @@
                                 confirmedCount++;
                             }
 
-                            if (attendanceRecord != null && attendanceRecord.IsAbsence)
+                            if (attendanceRecord != null && attendanceRecord.IsExcusedAbsence)
                             {
                                 absenceCount++;
                             }

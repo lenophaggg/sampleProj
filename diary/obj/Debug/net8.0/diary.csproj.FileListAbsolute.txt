@@ -1066,3 +1066,4 @@ C:\Users\user\Desktop\papka\diary_prime\diary\obj\Debug\net8.0\refint\diary.dll
 C:\Users\user\Desktop\papka\diary_prime\diary\obj\Debug\net8.0\diary.pdb
 C:\Users\user\Desktop\papka\diary_prime\diary\obj\Debug\net8.0\diary.genruntimeconfig.cache
 C:\Users\user\Desktop\papka\diary_prime\diary\obj\Debug\net8.0\ref\diary.dll
+C:\Users\user\Desktop\papka\diary_prime\diary\obj\Debug\net8.0\diary.sourcelink.json

@@ -211,7 +211,7 @@ namespace diary.Controllers
             {
                 var classGroupNumber = (await _diaryDbContext.ClassGroupAssignments.FindAsync(record.ClassGroupId)).GroupNumber;
                
-                bool isAbsent = await _diaryDbContext.StudentAbsences
+                bool IsExcusedAbsence = await _diaryDbContext.StudentAbsences
                 .AnyAsync(sa => sa.StudentId == record.StudentId
                                 && sa.GroupNumber == classGroupNumber
                                 && sa.StartDate <= record.Date.ToDateTime(new TimeOnly())
@@ -220,7 +220,7 @@ namespace diary.Controllers
 
                 bool isPresent = record.IsPresent;
 
-                if (isAbsent == isPresent)
+                if (IsExcusedAbsence == isPresent)
                 {
                     isPresent = false;
                 }
@@ -235,7 +235,7 @@ namespace diary.Controllers
                 if (existingRecord != null)
                 {
                     existingRecord.IsPresent = isPresent;
-                    existingRecord.IsAbsence = isAbsent;
+                    existingRecord.IsExcusedAbsence = IsExcusedAbsence;
                     existingRecord.Status = AttendanceStatus.ConfirmedByTeacher;
                 }
                 else
@@ -246,9 +246,9 @@ namespace diary.Controllers
                         StudentId = record.StudentId,
                         Date = record.Date,
                         SessionNumber = record.SessionNumber,
-                        IsPresent = !isAbsent && isPresent,
+                        IsPresent = !IsExcusedAbsence && isPresent,
                         // Уважительная причина
-                        IsAbsence = isAbsent,
+                        IsExcusedAbsence = IsExcusedAbsence,
                         Status = AttendanceStatus.ConfirmedByTeacher
                     });
                 }
@@ -306,7 +306,7 @@ namespace diary.Controllers
                             continue; 
                         }
                                                 
-                        bool isAbsent = await _diaryDbContext.StudentAbsences
+                        bool IsExcusedAbsence = await _diaryDbContext.StudentAbsences
                             .AnyAsync(sa => sa.StudentId == record.StudentId
                                             && sa.GroupNumber == classGroupNumber
                                             && sa.StartDate <= record.Date.ToDateTime(new TimeOnly())
@@ -315,7 +315,7 @@ namespace diary.Controllers
 
                         bool isPresent = record.IsPresent;
 
-                        if (isAbsent == isPresent)
+                        if (IsExcusedAbsence == isPresent)
                         {
                             isPresent = false;
                         }
@@ -326,7 +326,7 @@ namespace diary.Controllers
                             StudentId = record.StudentId,
                             Date = record.Date,
                             IsPresent = isPresent,
-                            IsAbsence = isAbsent,
+                            IsExcusedAbsence = IsExcusedAbsence,
                             Status = AttendanceStatus.Draft,
                             SessionNumber = record.SessionNumber
                         });
